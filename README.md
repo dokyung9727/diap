@@ -6,5 +6,5 @@
 * 서울예술대학교 디지털아트전공 22학번
 
 ### 디지털아트 프로그래밍 7주차 수업 내용
-* github 가입하기
-* github README 저장소 수정해보기
+* github 가입
+* github README 저장소 수정
