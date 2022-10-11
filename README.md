@@ -9,3 +9,4 @@
 * github 가입
 * github README 저장소 수정
 * vs code와 github 저장소 clone
+* github의 강점
